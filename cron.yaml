@@ -1,0 +1,5 @@
+cron:
+- description: run taskun cdo dite
+  url: /
+  schedule: every day 00:05
+  timezone: Europe/Rome
